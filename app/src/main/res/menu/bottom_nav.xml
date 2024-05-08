@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/main"
+        android:icon="@drawable/school_default"
+        android:title="posts" />
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/search_default"
+        android:title="search" />
+    <item
+        android:id="@+id/createPost"
+        android:icon="@drawable/play_default"
+        android:title="create" />
+    <item
+        android:id="@+id/liked"
+        android:icon="@drawable/like_default"
+        android:title="likes" />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/person_default"
+        android:title="profile" />
+</menu>
